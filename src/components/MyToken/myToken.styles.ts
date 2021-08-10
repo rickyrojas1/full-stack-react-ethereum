@@ -27,6 +27,7 @@ export const SendInput = styled.input`
   height: 40px;
   border-radius: 10px;
   border: none;
+  margin-top: 20px;
   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   background-color: #fdfbf3;
   padding-left: 10px;
